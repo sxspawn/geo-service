@@ -2,7 +2,7 @@ package ru.netology.entity;
 
 public enum Country {
     RUSSIA,
-    GERMANY,
+//    GERMANY,
     USA,
-    BRAZIL;
+//    BRAZIL
 }
